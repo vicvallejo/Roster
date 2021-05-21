@@ -1,0 +1,33 @@
+{
+  "name": "Roster",
+  "version": "1.0.0",
+  "description": "week 10 homework",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "_test_"
+  },
+  "scripts": {
+    "test": "jest --verbose test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^6.5.2",
+    "path": "",
+    "prompt": "^1.0.0",
+    "util": ""
+  },
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
+}
